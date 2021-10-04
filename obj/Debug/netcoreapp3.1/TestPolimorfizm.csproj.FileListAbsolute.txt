@@ -1,0 +1,12 @@
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.exe
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.deps.json
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.runtimeconfig.json
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.runtimeconfig.dev.json
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.dll
+E:\проекты c#\TestPolimorfizm\bin\Debug\netcoreapp3.1\TestPolimorfizm.pdb
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.AssemblyInfoInputs.cache
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.AssemblyInfo.cs
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.csproj.CoreCompileInputs.cache
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.dll
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.pdb
+E:\проекты c#\TestPolimorfizm\obj\Debug\netcoreapp3.1\TestPolimorfizm.genruntimeconfig.cache
