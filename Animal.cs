@@ -28,6 +28,7 @@ namespace TestPolimorfizm
         public override void GetRoar()
         {
             Console.WriteLine("WUF");
+            Console.WriteLine("MEOW");
         }
     }
 
