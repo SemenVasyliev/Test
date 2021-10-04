@@ -29,6 +29,7 @@ namespace TestPolimorfizm
         {
             Console.WriteLine("WUF");
             Console.WriteLine("MEOW");
+            Console.WriteLine("Andrey");
         }
     }
 
