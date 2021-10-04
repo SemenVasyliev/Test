@@ -11,6 +11,7 @@ namespace TestPolimorfizm
         public virtual void GetRoar()
         {
             Console.WriteLine("WAAA");
+            Console.WriteLine("WORK");
         }
     }
 
